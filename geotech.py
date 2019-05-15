@@ -1,6 +1,6 @@
 #Group 7
 #Rahul Kumar Chaudhary
-#Gantavya Gupta
+
 
 import math
 import os
